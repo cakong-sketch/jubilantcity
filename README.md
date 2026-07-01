@@ -28,12 +28,9 @@ Professional single-page website for Jubilant City SDN BHD, a global import-expo
 7. **Footer** - Quick links and company details
 
 ### Services Highlighted
-- Import & Export Solutions
 - Agent Services
 - General Trading
-- Transportation Services
 - Wholesale & Retail Operations
-- Custom Solutions
 
 ## File Structure
 
